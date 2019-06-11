@@ -27,7 +27,7 @@ We recommend following the below practices to successfully implement automated r
 4. Automate the operation of test scripts based on changes to the application
 5. Use the test results as inputs to management's business risk analysis
 
-![Alt Text]()
+![Alt Text](https://raw.githubusercontent.com/deepu2010/Thesis-Automated-Regression-Testing/master/5%20step%20process%20model.JPG)
 
 **Three main reasons to perform regression testing are following:**
 
