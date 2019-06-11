@@ -16,3 +16,13 @@ Regression tests can be performed manually on small projects and in agile projec
   2. *5 step-process model* to implement automated regression testing. 
   
 In addition to the 5-process model, we also recommend companies to use Testing Whiz tool to implement automate regression testing effectively.
+
+## Five Step process model for effectively implementing regression testing in Agile Environment:
+
+We recommend following the below practices to successfully implement automated regression testing:
+
+1. Creating the inventory of the workflow present in the application
+2. Transform the workflow into test scripts
+3. Maintain the version-control of the test scripts as software assets
+4. Automate the operation of test scripts based on changes to the application
+5. Use the test results as inputs to management's business risk analysis
