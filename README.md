@@ -32,7 +32,9 @@ We recommend following the below practices to successfully implement automated r
 **Three main reasons to perform regression testing are following:**
 
 • When developers fix a bug, add a new functionality, or modify an existing one, they always change a program code. Even a little change may result in a bunch of new bugs. Regression testing is required to identify those bugs.
+
 • In case of changing operating environment, a software tester can reveal and localize undesirable side effects by performing of regression testing.
+
 • Effective regression testing is a key to the successful integration testing. A software tester should keep in mind that new bugs and side effects may appear after fixing bugs that were found during regression testing. However, a high-quality software product cannot be built without complete and systematic regression testing.
 
 
