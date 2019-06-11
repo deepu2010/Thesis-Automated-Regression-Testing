@@ -12,5 +12,7 @@ Regression Testing is one of the successful testing method which analyzes the im
 
 Regression tests can be performed manually on small projects and in agile projects regression testing strategy is considered endangered as it consumes more time than other testing strategy such as smoke tests. However, regression testing strategy improves the quality of the software and helps the professionals to revisit test cases after the completion of each sprint. In this document, we recommend best practices to the companies to adapt regression testing in Agile environment. We recommend two approaches
 
-  1. Risk Based Testing fused with Regression testing strategy.
-  2. A 5-process model to implement automated regression testing. In addition to the 5-process model, we also recommend companies to use Testing Whiz tool to implement automate regression testing effectively
+  1. *Risk Based Testing fused with Regression testing strategy*.
+  2. *5 step-process model* to implement automated regression testing. 
+  
+In addition to the 5-process model, we also recommend companies to use Testing Whiz tool to implement automate regression testing effectively.
